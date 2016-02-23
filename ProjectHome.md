@@ -1,0 +1,1 @@
+El proyecto consta de hacer un programa capaz de simular el juego de punto y banca probando las distintas técnicas de apuesta pudiendo hacer una análisis posterior y luego aplicarlo en el casino.
